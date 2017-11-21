@@ -11,11 +11,13 @@ html, body {
     background-repeat: no-repeat;
     background-size: cover; }
   .container h1 {
+    text-align: center;
     font-weight: bold;
     font-family: Helvetica;
     color: #ffffff;
     font-size: 70px; }
   .container ul {
+    text-align: center;
     font-family: Helvetica;
     color: #ffffff;
     font-size: 18px; }
