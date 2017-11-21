@@ -10,16 +10,16 @@ html, body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover; }
-  .container h1 {
-    text-align: center;
-    font-weight: bold;
-    font-family: Helvetica;
-    color: #ffffff;
-    font-size: 70px; }
-  .container ul {
-    text-align: center;
-    font-family: Helvetica;
-    color: #ffffff;
-    font-size: 18px; }
+  .container .heading {
+    text-align: center; }
+    .container .heading h1 {
+      font-weight: bold;
+      font-family: Helvetica;
+      color: #ffffff;
+      font-size: 70px; }
+    .container .heading ul {
+      font-family: Helvetica;
+      color: #ffffff;
+      font-size: 18px; }
 
 /*# sourceMappingURL=style.css.map */
