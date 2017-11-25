@@ -4,7 +4,6 @@ html, body {
 
 .container {
   width: 100%;
-  height: 400px;
 }
 
 .header {
@@ -25,6 +24,7 @@ html, body {
       font-family: Helvetica;
       color: #ffffff;
       font-size: 70px;
+      margin: 0 0 -7px 0;
     }
 
  .header ul {
@@ -35,3 +35,70 @@ html, body {
       text-align: center;
       margin: 20px 0;
     }
+
+    .header li {
+      text-align: center;
+      margin: 10px;
+    }
+
+    .header li a {
+      text-decoration: none;
+      color: #ffffff;
+    }
+
+    .header li a:hover {
+      color: blue;
+    }
+
+  .main {
+    text-align: center;
+    color: black;
+  }
+
+.main_icon {
+  margin: 30px;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.stripimg {
+  background-image: url("../images/the-flatiron-building.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 30px;
+}
+
+h3 {
+  font-size: 23px;
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.stripimg h3 {
+  color: #ffffff;
+  font-size: 23px;
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.stripimg p {
+  color: #ffffff;
+}
+
+.inline ul {
+  display: inline;
+}
+
+.inline li {
+  color: #ffffff;
+  list-style-type: none;
+  display: inline;
+}
