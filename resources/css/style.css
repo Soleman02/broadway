@@ -1,19 +1,18 @@
 html, body {
   color: #ffffff;
-  width: auto; }
+  width: auto;
+}
 
 .container {
   width: 100%;
   height: auto;
-  color: blue;
 }
 
 .header {
-    /* background-image: url("broadway/resources/images/the-flatiron-building.png");
+    background-image: url("broadway/resources/images/the-flatiron-building.png");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%; */
   }
 
 .heading {
