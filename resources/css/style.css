@@ -5,21 +5,23 @@ html, body {
 .container {
   width: 100%;
   height: auto; }
-  .container .header {
+
+.header {
     background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover; }
-  .container .heading {
+
+.heading {
     text-align: center; }
-    .container .heading h1 {
+
+ h1 {
       font-weight: bold;
       font-family: Helvetica;
       color: #ffffff;
       font-size: 70px; }
-    .container .heading ul {
+
+ ul {
       font-family: Helvetica;
       color: #ffffff;
       font-size: 18px; }
-
-/*# sourceMappingURL=style.css.map */
